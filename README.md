@@ -1,1 +1,2 @@
 # Ecommerce-Customer-Segmentation
+The goal of this project is to use the Online Retail dataset to perform customer segmentation for an e-commerce company. The dataset contains transactional data from a UK-based online retailer over a one-year period. The company primarily sells to wholesalers and sells unique all-occasion gifts. The dataset includes all transactions for this company that occurred between 01/12/2010 and 09/12/2011.
